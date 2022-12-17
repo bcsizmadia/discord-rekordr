@@ -19,6 +19,11 @@
 - Go to `Bot` and grab the token
 - Create a `.env` file with `TOKEN="<token>"`
 
+**To play audio in voice channels, install `ffmpeg`**:
+```bash
+brew install ffmpeg
+```
+
 ## Usage
 
 Create and activate the virtual environment
